@@ -1,1 +1,1 @@
-alert('XXX')
+alert('YYY')
